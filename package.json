@@ -1,0 +1,28 @@
+{
+  "name": "hello-jenkins",
+  "version": "1.0.0",
+  "description": "My super sample app to test out Jenkins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cimon77/hello-jenkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cimon77/hello-jenkins/issues"
+  },
+  "homepage": "https://github.com/cimon77/hello-jenkins#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.1.2",
+    "supertest": "^2.0.1"
+  }
+}
